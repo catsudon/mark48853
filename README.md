@@ -91,3 +91,13 @@ Been tinkering with code since high school (M4), mostly for fun — still enjoy 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+---
+
+### 📊 Stats
+
+![](https://raw.githubusercontent.com/catsudon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/catsudon/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<br/>
+<br/>
+[![wakatime](https://wakatime.com/badge/user/b2ef7477-fbec-4fb4-a824-1f4d4ee4f697.svg)](https://wakatime.com/@b2ef7477-fbec-4fb4-a824-1f4d4ee4f697)
