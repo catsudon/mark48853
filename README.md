@@ -24,7 +24,6 @@ Been tinkering with code since high school (M4), mostly for fun — still enjoy 
 
 - 🔬 First-author paper at **iSAI-NLP 2025** (indexed in IEEE Xplore)
 - 🎓 CU Engineering **CP49**, graduated May 2026 — open to **AI/ML & Data** roles
-- 🧪 On the side: event-driven crypto trading systems (stat-arb, CPI/PPI bots)
 - 🃏 TCG enthusiast — Battle of Talingchan, Yu-Gi-Oh! Master Duel & Cardfight!! Vanguard
 - 🗣️ TH / EN / 日本語
 - 📫 **Sathanalao@hotmail.com** · [LinkedIn](https://www.linkedin.com/in/sathana-l-8940451a1/)
