@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Sathana 👋</h1>
 <p align="center">
-  <em>AI/ML &amp; Data Engineer · Chulalongkorn University — Computer Engineering (CP49) · Fresh Grad 2026</em>
+  <em>AI/ML Engineer · Chulalongkorn University — Computer Engineering (CP49) · Fresh Grad 2026</em>
 </p>
 
 <p align="center">
