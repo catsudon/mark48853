@@ -33,7 +33,7 @@ Been tinkering with code since high school (M4), mostly for fun — still enjoy 
 
 ### 💼 Experience
 
-- **FWD Insurance** — *Data Intelligence Intern* (2026) · Used Databricks/PySpark + SQL to query, clean & transform data; built Power BI dashboards for stakeholders
+<-- - **FWD Insurance** — *Data Intelligence Intern* (2026) · Used Databricks/PySpark + SQL to query, clean & transform data; built Power BI dashboards for stakeholders -->
 - **JAIST, Japan** — *Research Intern* (2025) · First-author **iSAI-NLP** paper; built an LLM legal-tech prototype for the **Office of the Attorney General of Thailand**, cutting petition-drafting time by **34%**
 - **NVIDIA Student Ambassador** (2024–2025) · Built a multimodal **Voice RAG** pipeline on **NVIDIA Riva** (ASR + TTS); TA for NVAITC workshops
 
